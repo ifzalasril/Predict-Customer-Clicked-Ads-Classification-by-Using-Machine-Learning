@@ -1,5 +1,4 @@
 # Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning
-This Mini-Project is Part of Rakamin Academy's Data Science Bootcamp
 
 # Description
 A company in Indonesia wants to know the effectiveness of an advertisement that they serve,
